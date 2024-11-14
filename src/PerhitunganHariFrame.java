@@ -219,7 +219,7 @@ public class PerhitunganHariFrame extends javax.swing.JFrame {
 
         jLabel8.setFont(new java.awt.Font("Trebuchet MS", 1, 12)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(17, 58, 77));
-        jLabel8.setText("Tahun Kabisat:");
+        jLabel8.setText("Selisih Hari:");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
