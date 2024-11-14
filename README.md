@@ -22,5 +22,5 @@ Program ini merupakan program yang membantu pengguna menentukan jumlah hari dala
 
 ## Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://github.com/ranoem/AplikasiPerhitunganHari/blob/main/img/app.gif)
 
